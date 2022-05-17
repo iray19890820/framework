@@ -27,6 +27,7 @@ install-dev is the installation directory of visual package on the development s
 ├────├─── assets /*Resource*/
 ├────├─── admin /*Admin example*/
 ├────├────└───index.php  /*Admin controller*/
+├────├─── log /*Log*/
 ├────├─── modules /*Module*/
 ├────├────└───ut-frame
 ├────├────├────├─admin /*Admin model*/
